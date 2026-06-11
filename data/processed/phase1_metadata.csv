@@ -1,0 +1,51 @@
+company_name,industry,symbol,series,isin_code,source_file
+Adani Ports and Special Economic Zone Ltd.,SERVICES,ADANIPORTS,EQ,INE742F01042,stock_metadata.csv
+Asian Paints Ltd.,CONSUMER GOODS,ASIANPAINT,EQ,INE021A01026,stock_metadata.csv
+Axis Bank Ltd.,FINANCIAL SERVICES,AXISBANK,EQ,INE238A01034,stock_metadata.csv
+Bajaj Auto Ltd.,AUTOMOBILE,BAJAJ-AUTO,EQ,INE917I01010,stock_metadata.csv
+Bajaj Finserv Ltd.,FINANCIAL SERVICES,BAJAJFINSV,EQ,INE918I01018,stock_metadata.csv
+Bajaj Finance Ltd.,FINANCIAL SERVICES,BAJFINANCE,EQ,INE296A01024,stock_metadata.csv
+Bharti Airtel Ltd.,TELECOM,BHARTIARTL,EQ,INE397D01024,stock_metadata.csv
+Bharat Petroleum Corporation Ltd.,ENERGY,BPCL,EQ,INE029A01011,stock_metadata.csv
+Britannia Industries Ltd.,CONSUMER GOODS,BRITANNIA,EQ,INE216A01030,stock_metadata.csv
+Cipla Ltd.,PHARMA,CIPLA,EQ,INE059A01026,stock_metadata.csv
+Coal India Ltd.,METALS,COALINDIA,EQ,INE522F01014,stock_metadata.csv
+Dr. Reddy's Laboratories Ltd.,PHARMA,DRREDDY,EQ,INE089A01023,stock_metadata.csv
+Eicher Motors Ltd.,AUTOMOBILE,EICHERMOT,EQ,INE066A01013,stock_metadata.csv
+GAIL (India) Ltd.,ENERGY,GAIL,EQ,INE129A01019,stock_metadata.csv
+Grasim Industries Ltd.,CEMENT & CEMENT PRODUCTS,GRASIM,EQ,INE047A01021,stock_metadata.csv
+HCL Technologies Ltd.,IT,HCLTECH,EQ,INE860A01027,stock_metadata.csv
+Housing Development Finance Corporation Ltd.,FINANCIAL SERVICES,HDFC,EQ,INE001A01036,stock_metadata.csv
+HDFC Bank Ltd.,FINANCIAL SERVICES,HDFCBANK,EQ,INE040A01034,stock_metadata.csv
+Hero MotoCorp Ltd.,AUTOMOBILE,HEROMOTOCO,EQ,INE158A01026,stock_metadata.csv
+Hindalco Industries Ltd.,METALS,HINDALCO,EQ,INE038A01020,stock_metadata.csv
+Hindustan Unilever Ltd.,CONSUMER GOODS,HINDUNILVR,EQ,INE030A01027,stock_metadata.csv
+ICICI Bank Ltd.,FINANCIAL SERVICES,ICICIBANK,EQ,INE090A01021,stock_metadata.csv
+IndusInd Bank Ltd.,FINANCIAL SERVICES,INDUSINDBK,EQ,INE095A01012,stock_metadata.csv
+Bharti Infratel Ltd.,TELECOM,INFRATEL,EQ,INE121J01017,stock_metadata.csv
+Infosys Ltd.,IT,INFY,EQ,INE009A01021,stock_metadata.csv
+Indian Oil Corporation Ltd.,ENERGY,IOC,EQ,INE242A01010,stock_metadata.csv
+ITC Ltd.,CONSUMER GOODS,ITC,EQ,INE154A01025,stock_metadata.csv
+JSW Steel Ltd.,METALS,JSWSTEEL,EQ,INE019A01038,stock_metadata.csv
+Kotak Mahindra Bank Ltd.,FINANCIAL SERVICES,KOTAKBANK,EQ,INE237A01028,stock_metadata.csv
+Larsen & Toubro Ltd.,CONSTRUCTION,LT,EQ,INE018A01030,stock_metadata.csv
+Mahindra & Mahindra Ltd.,AUTOMOBILE,M&M,EQ,INE101A01026,stock_metadata.csv
+Maruti Suzuki India Ltd.,AUTOMOBILE,MARUTI,EQ,INE585B01010,stock_metadata.csv
+Nestle India Ltd.,CONSUMER GOODS,NESTLEIND,EQ,INE239A01016,stock_metadata.csv
+NTPC Ltd.,ENERGY,NTPC,EQ,INE733E01010,stock_metadata.csv
+Oil & Natural Gas Corporation Ltd.,ENERGY,ONGC,EQ,INE213A01029,stock_metadata.csv
+Power Grid Corporation of India Ltd.,ENERGY,POWERGRID,EQ,INE752E01010,stock_metadata.csv
+Reliance Industries Ltd.,ENERGY,RELIANCE,EQ,INE002A01018,stock_metadata.csv
+State Bank of India,FINANCIAL SERVICES,SBIN,EQ,INE062A01020,stock_metadata.csv
+Shree Cement Ltd.,CEMENT & CEMENT PRODUCTS,SHREECEM,EQ,INE070A01015,stock_metadata.csv
+Sun Pharmaceutical Industries Ltd.,PHARMA,SUNPHARMA,EQ,INE044A01036,stock_metadata.csv
+Tata Motors Ltd.,AUTOMOBILE,TATAMOTORS,EQ,INE155A01022,stock_metadata.csv
+Tata Steel Ltd.,METALS,TATASTEEL,EQ,INE081A01012,stock_metadata.csv
+Tata Consultancy Services Ltd.,IT,TCS,EQ,INE467B01029,stock_metadata.csv
+Tech Mahindra Ltd.,IT,TECHM,EQ,INE669C01036,stock_metadata.csv
+Titan Company Ltd.,CONSUMER GOODS,TITAN,EQ,INE280A01028,stock_metadata.csv
+UltraTech Cement Ltd.,CEMENT & CEMENT PRODUCTS,ULTRACEMCO,EQ,INE481G01011,stock_metadata.csv
+UPL Ltd.,FERTILISERS & PESTICIDES,UPL,EQ,INE628A01036,stock_metadata.csv
+Vedanta Ltd.,METALS,VEDL,EQ,INE205A01025,stock_metadata.csv
+Wipro Ltd.,IT,WIPRO,EQ,INE075A01022,stock_metadata.csv
+Zee Entertainment Enterprises Ltd.,MEDIA & ENTERTAINMENT,ZEEL,EQ,INE256A01028,stock_metadata.csv
