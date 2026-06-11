@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and model artifacts
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+outputs/*
+!outputs/.gitkeep
+!outputs/figures/
+outputs/figures/*
+!outputs/figures/.gitkeep
+
+# Reports generated later
+reports/*.pdf
+reports/*.pptx
+reports/*.docx
+!reports/technical_report.pdf
+
+# Local notebooks
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+*.log
+
+data/raw/*.zip
+data/processed/phase2_model_features.csv
+outputs/streamlit_*.log

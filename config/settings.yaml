@@ -1,0 +1,38 @@
+project:
+  name: nifty50-investment-intelligence
+  phase: phase_1
+
+paths:
+  raw_data_dir: data/raw
+  processed_data_dir: data/processed
+  outputs_dir: outputs
+  figures_dir: outputs/figures
+
+data:
+  allowed_sources:
+    - rohanrao/nifty50-stock-market-data
+    - stoicstatic/india-stock-data-nse-1990-2020
+  expected_price_columns:
+    - date
+    - open
+    - high
+    - low
+    - close
+    - volume
+
+eda:
+  sample_symbols:
+    - RELIANCE
+    - TCS
+    - HDFCBANK
+    - INFY
+    - ICICIBANK
+  rolling_window_days: 21
+
+modeling:
+  target_column: future_return_5d
+  ridge_alpha: 5.0
+  test_fraction: 0.2
+
+portfolio:
+  risk_free_rate: 0.0
